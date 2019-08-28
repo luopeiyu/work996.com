@@ -2,12 +2,12 @@
 
 ### 《Unity3D网络游戏实战（第二版）》
 
-[https://luopeiyu.github.io/unity_net_book/](https://luopeiyu.github.io/unity_net_book/?_blank)
+[https://luopeiyu.github.io/unity_net_book/](https://luopeiyu.github.io/unity_net_book/)
 
 
 ### 《手把手教你用c#制作RPG游戏》
 
-[http://product.dangdang.com/23489626.html](http://product.dangdang.com/23489626.html?_blank)
+[http://product.dangdang.com/23489626.html](http://product.dangdang.com/23489626.html){:target="_blank"}
 
 
 ### 仙剑5前传之心愿
@@ -17,7 +17,7 @@
 
 ### 16年的长度，记录中国独立游戏
 
-[http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml](http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml)
+[http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml](http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml){:target="_blank"}
 
 
 ### 游戏研究院：Unity3D热更新LuaFramework入门
