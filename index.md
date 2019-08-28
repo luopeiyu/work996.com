@@ -7,8 +7,7 @@
 
 ### 《手把手教你用c#制作RPG游戏》
 
-[http://product.dangdang.com/23489626.html](http://product.dangdang.com/23489626.html){:target="_blank"}
-
+[http://product.dangdang.com/23489626.html](http://product.dangdang.com/23489626.html)
 
 ### 仙剑5前传之心愿
 
