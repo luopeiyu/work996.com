@@ -17,9 +17,9 @@
 <br>  
    
 ## 记录历史  
- [16年的长度，记录中国独立游戏](http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml) [2015版](http://www.cocoachina.com/articles/14099)  
+ [16年的长度，记录中国独立游戏](http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml) [[2015版](http://www.cocoachina.com/articles/14099)]  
  [《仙剑四外传·回到起点》揭秘史上最宏大的仙剑同人企划](http://news.17173.com/content/06152018/001003932.shtml)  
- [历代仙剑同人作品](https://zhuanlan.zhihu.com/palfun)  [生态圈实录](https://zhuanlan.zhihu.com/p/56452556)  
+ [历代仙剑同人作品](https://zhuanlan.zhihu.com/palfun)  [[生态圈实录](https://zhuanlan.zhihu.com/p/56452556)]  
 
 <br>  
    
