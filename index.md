@@ -11,15 +11,15 @@
 [2019《铁流的轮印》](https://zhuanlan.zhihu.com/p/77809295)  
 [2018 《蚀梦》 ](https://www.taptap.com/app/146551)  
 [2014 《仙剑5前传之心愿》 ](http://www.pal5h.com)  
-[2012 真人火线2 ](http://dev.u77.com/game/4695)  
+[2012 《真人火线2》 ](http://dev.u77.com/game/4695)  
 [我做过的游戏 ](http://pal5h.com/lpygame/)  
 
 <br>  
    
 ## 记录历史  
-16年的长度，记录中国独立游戏 [2014版](http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml) [2015版](http://www.cocoachina.com/articles/14099)  
+ [16年的长度，记录中国独立游戏](http://games.sina.com.cn/zl/duanpian/2015-04-03/1538151.shtml) [2015版](http://www.cocoachina.com/articles/14099)  
  [《仙剑四外传·回到起点》揭秘史上最宏大的仙剑同人企划](http://news.17173.com/content/06152018/001003932.shtml)  
-历代仙剑同人作品 [专栏](https://zhuanlan.zhihu.com/palfun)  [生态圈实录](https://zhuanlan.zhihu.com/p/56452556)  
+ [历代仙剑同人作品](https://zhuanlan.zhihu.com/palfun)  [生态圈实录](https://zhuanlan.zhihu.com/p/56452556)  
 
 <br>  
    
