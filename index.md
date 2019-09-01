@@ -2,7 +2,7 @@
 
 ## 书籍  
 [2019《Unity3D网络游戏实战（第2版）》](https://luopeiyu.github.io/unity_net_book/)  
-[2015《Unity3D网络游戏实战（第1版）》](https://item.jd.com/12015701.html)  
+[2016《Unity3D网络游戏实战（第1版）》](https://item.jd.com/12015701.html)  
 [2014《手把手教你用c#制作RPG游戏》](http://product.dangdang.com/23489626.html)  
 
 <br>  
